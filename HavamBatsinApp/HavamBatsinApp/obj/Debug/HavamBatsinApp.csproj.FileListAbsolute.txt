@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\bin\Debug\HavamBatsinApp.exe.config
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\bin\Debug\HavamBatsinApp.exe
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\bin\Debug\HavamBatsinApp.pdb
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.Form1.resources
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.Properties.Resources.resources
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.exe
+C:\Users\burak\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.pdb

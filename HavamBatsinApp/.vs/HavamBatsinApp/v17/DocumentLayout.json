@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\HavamBatsinApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F054D64-AA43-4CC0-ADAB-F69D7F7A27F1}|HavamBatsinApp\\HavamBatsinApp.csproj|c:\\users\\burak\\source\\repos\\havambatsinapp\\havambatsinapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F054D64-AA43-4CC0-ADAB-F69D7F7A27F1}|HavamBatsinApp\\HavamBatsinApp.csproj|solutionrelative:havambatsinapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F054D64-AA43-4CC0-ADAB-F69D7F7A27F1}|HavamBatsinApp\\HavamBatsinApp.csproj|c:\\users\\burak\\source\\repos\\havambatsinapp\\havambatsinapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F054D64-AA43-4CC0-ADAB-F69D7F7A27F1}|HavamBatsinApp\\HavamBatsinApp.csproj|solutionrelative:havambatsinapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\HavamBatsinApp\\HavamBatsinApp\\Form1.cs",
+              "RelativeDocumentMoniker": "HavamBatsinApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\HavamBatsinApp\\HavamBatsinApp\\Form1.cs",
+              "RelativeToolTip": "HavamBatsinApp\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:43:39.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\HavamBatsinApp\\HavamBatsinApp\\Form1.cs",
+              "RelativeDocumentMoniker": "HavamBatsinApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\HavamBatsinApp\\HavamBatsinApp\\Form1.cs [Design]",
+              "RelativeToolTip": "HavamBatsinApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:30:27.242Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
